@@ -18,7 +18,7 @@ Create a composer.json file with the following content:
 ``` json
 {
     "require": {
-        "usu/codice-fiscale": "1.0.*"
+        "aldozumaran/codice-fiscale": "1.0.*"
     }
 }
 ```
@@ -30,7 +30,7 @@ $ curl -s https://getcomposer.org/installer | php
 $ php composer.phar install
 ```
 
-You should now have CodiceFiscale installed inside your vendor folder: *vendor/usu/codice-fiscale*
+You should now have CodiceFiscale installed inside your vendor folder: *vendor/aldozumaran/codice-fiscale*
 
 And an handy autoload file to include in you project: *vendor/autoload.php*
 

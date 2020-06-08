@@ -4,7 +4,7 @@ namespace CodiceFiscale;
 
 /**
  * Class to check if italian fiscal's code (codice fiscale) is formally Correct
- * @author SimoneNigro
+ * @author Aldo Zumaran
  *
  */
 class Checker
